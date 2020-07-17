@@ -1,0 +1,15 @@
+[book]
+authors = ["Jongha Kim"]
+language = "ko"
+multilingual = false
+src = "src"
+title = "북방십자군"
+description = "예루살렘 십자군에 가려진 머나먼 북쪽 지방 십자군 전쟁"
+
+[build]
+create-missing = false
+
+[output.html]
+theme = "src/theme"
+google-analytics = "UA-170911573-1"
+default-theme = "light"
